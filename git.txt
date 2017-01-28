@@ -1,0 +1,5 @@
+ git push origin master
+ git commit -m "kaggle"
+git add conpetition
+remote add origin git@github.com:xiaohanghang/python.git
+
